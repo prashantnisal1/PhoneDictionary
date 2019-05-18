@@ -13,7 +13,10 @@ puts "Execution time---#{end_time - start_time}----"
 
 Output : 
 
+[prashant@HP-4530s-005 PhoneDictionary](master)$ ruby word_search_by_binary_search.rb
+
 [["MOTORTRUCK"], [["NOUN", "STRUCK"], ["ONTO", "STRUCK"]], [["MOTOR", "TRUCK"], ["MOTOR", "USUAL"], ["NOUNS", "TRUCK"], ["NOUNS", "USUAL"]]]
-[Finished in 1.1s]
+
+Execution time---0.876216651----
 	
 =end
