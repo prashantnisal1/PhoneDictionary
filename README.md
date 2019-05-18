@@ -55,14 +55,11 @@ We hope you understand why we do this. The best way to see what a footballer is 
 You can use a plain text full English Scrabble dictionary such as this one: https://github.com/jonbcard/scrabble-bot/blob/master/src/dictionary.txt
 
 
-Important Notes:
-- Specs with proper coverage
-- Good Readme file with code execution steps and output, Specs and benchmark details. Basic explanation on thought process of your code will be good
-- Multiple commits to see thought process followed to get to the solution
-- Your unique solution and not from referred site
-
-
-
 Reference:
 https://www.youtube.com/watch?v=JQhciTuD3E8
+
+Execution Steps:
+[PhoneDictionary](master)$ bundle
+[PhoneDictionary](master)$ ruby word_search_by_binary_search.rb 
+[PhoneDictionary](master)$ rspec spec/check_phone_number_test.rb
 
